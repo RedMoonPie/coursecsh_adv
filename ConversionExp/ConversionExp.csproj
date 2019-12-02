@@ -21,6 +21,7 @@
     <Compile Include="Program.cs" />
     <Compile Include="CReal.cs" />
     <Compile Include="CComplejo.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Properties\" />
