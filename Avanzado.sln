@@ -47,6 +47,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiposAnonimos", "TiposAnoni
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetodosExtension", "MetodosExtension\MetodosExtension.csproj", "{408ACE99-3053-40B8-9748-F4F1423EA486}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Apuntadores", "Apuntadores\Apuntadores.csproj", "{DE98D5C6-CD79-4C5D-B7D7-0419A86267AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SabeCuandoObjImplementaInterfa", "SabeCuandoObjImplementaInterfa\SabeCuandoObjImplementaInterfa.csproj", "{7B17529D-5D32-413C-B3A8-C9309685D1DF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -112,6 +116,18 @@ Global
 		{408ACE99-3053-40B8-9748-F4F1423EA486}.Release|x86.Build.0 = Release|Any CPU
 		{408ACE99-3053-40B8-9748-F4F1423EA486}.Any|Any CPU.ActiveCfg = Release|Any CPU
 		{408ACE99-3053-40B8-9748-F4F1423EA486}.Any|Any CPU.Build.0 = Release|Any CPU
+		{DE98D5C6-CD79-4C5D-B7D7-0419A86267AC}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{DE98D5C6-CD79-4C5D-B7D7-0419A86267AC}.Debug|x86.Build.0 = Debug|Any CPU
+		{DE98D5C6-CD79-4C5D-B7D7-0419A86267AC}.Release|x86.ActiveCfg = Release|Any CPU
+		{DE98D5C6-CD79-4C5D-B7D7-0419A86267AC}.Release|x86.Build.0 = Release|Any CPU
+		{DE98D5C6-CD79-4C5D-B7D7-0419A86267AC}.Any|Any CPU.ActiveCfg = Release|Any CPU
+		{DE98D5C6-CD79-4C5D-B7D7-0419A86267AC}.Any|Any CPU.Build.0 = Release|Any CPU
+		{7B17529D-5D32-413C-B3A8-C9309685D1DF}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{7B17529D-5D32-413C-B3A8-C9309685D1DF}.Debug|x86.Build.0 = Debug|Any CPU
+		{7B17529D-5D32-413C-B3A8-C9309685D1DF}.Release|x86.ActiveCfg = Release|Any CPU
+		{7B17529D-5D32-413C-B3A8-C9309685D1DF}.Release|x86.Build.0 = Release|Any CPU
+		{7B17529D-5D32-413C-B3A8-C9309685D1DF}.Any|Any CPU.ActiveCfg = Release|Any CPU
+		{7B17529D-5D32-413C-B3A8-C9309685D1DF}.Any|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(MonoDevelopProperties) = preSolution
 		Policies = $0
