@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Apuntadores", "Apuntadores\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SabeCuandoObjImplementaInterfa", "SabeCuandoObjImplementaInterfa\SabeCuandoObjImplementaInterfa.csproj", "{7B17529D-5D32-413C-B3A8-C9309685D1DF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManejoInterfaces", "ManejoInterfaces\ManejoInterfaces.csproj", "{4A979921-1CA4-414C-B60A-A1AE214AAFC3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -128,6 +130,12 @@ Global
 		{7B17529D-5D32-413C-B3A8-C9309685D1DF}.Release|x86.Build.0 = Release|Any CPU
 		{7B17529D-5D32-413C-B3A8-C9309685D1DF}.Any|Any CPU.ActiveCfg = Release|Any CPU
 		{7B17529D-5D32-413C-B3A8-C9309685D1DF}.Any|Any CPU.Build.0 = Release|Any CPU
+		{4A979921-1CA4-414C-B60A-A1AE214AAFC3}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{4A979921-1CA4-414C-B60A-A1AE214AAFC3}.Debug|x86.Build.0 = Debug|Any CPU
+		{4A979921-1CA4-414C-B60A-A1AE214AAFC3}.Release|x86.ActiveCfg = Release|Any CPU
+		{4A979921-1CA4-414C-B60A-A1AE214AAFC3}.Release|x86.Build.0 = Release|Any CPU
+		{4A979921-1CA4-414C-B60A-A1AE214AAFC3}.Any|Any CPU.ActiveCfg = Release|Any CPU
+		{4A979921-1CA4-414C-B60A-A1AE214AAFC3}.Any|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(MonoDevelopProperties) = preSolution
 		Policies = $0
